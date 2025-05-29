@@ -4,7 +4,7 @@ A console-based implementation of the classic **24-Puzzle Game** using C++. Buil
 
 ---
 
-## 🕹️ How to Play
+## How to Play
 
 - The game starts with a random shuffled board.
 - The goal is to arrange the tiles in order from 1 to 24, with the last cell empty (0).
@@ -18,7 +18,7 @@ Legal moves are displayed before each turn.
 
 ---
 
-## 🧠 Game Features
+## Game Features
 
 - Random and solvable board generation
 - Move counter saved and loaded from `movesplayed.txt`
@@ -28,7 +28,7 @@ Legal moves are displayed before each turn.
 
 ---
 
-## 📂 File Structure
+## File Structure
 
 ```bash
 24-puzzle/
